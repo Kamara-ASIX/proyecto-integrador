@@ -1,1 +1,2 @@
-
+# 18/04/2023
+He estado configurando el acceso a Internet junto a Álvaro y Miquel para tener conexión externa. Tenemos un servidor de internet global para las 4 sedes y luego las dividimos en subredes, en nuestro caso hemos conectado nuestro adaptador con el cableado que va hasta nuestra sede. En nuestro caso desde la 192.0.2.33/29 hasta la 192.0.2.41/29. Hemos comprobado con mi portatil que tenia acceso a internet por lo que todo esta correcto.
