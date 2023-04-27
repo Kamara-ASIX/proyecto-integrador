@@ -6,3 +6,6 @@ Hemos estado instalando los sistemas operativos en los 3 servidores que luego in
 
 # 26/04/2023
 He estado configurando la red que me quedaba del servidor 3, pero no lo hemos conseguido porque el cable que tiene el internet lo estaban utilizando para intentar configurar el mikrotik Miquel, mientras tanto Álvaro y yo hemos estado reiniciando el router de TP-Link y lo hemos conseguido hacer funcionar. Adrián ha probado a ver si daba internet y si había.
+
+# 27/04/2023
+He estado diseñando el esquema de red y hemos estado viendo un poco el futuro del proyecto
