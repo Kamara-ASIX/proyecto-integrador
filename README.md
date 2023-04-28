@@ -9,3 +9,7 @@ Hemos empezado a instalar los sistemas operativos para los servidores, hemos pue
 # 26/04/2023
 Hemos estado configurando el internet en los servidores. Miquel sigue intentando conectarse al mickrotick mediante winbox despues de quitarle la configuracion inicial de dhcp y utilizando el winbox para que con un protocolo parecido al del ARP Winbox encuentre la MAC y con ella conectarse al menu de configuracion pero no aparece despues de resetearlo unas cuantas veces y probando.
 Y Mientras Álvaro, Kevin, Adrián y Alejandro hemos estado con el TP-Link haciendolo funcionar y así ha sido.
+
+# **28/04/2023**
+Hoy nos hemos puesto a instalar de nuevo el Sistema Operativo del Servidor 1 y hemos vuelto a intentar configurar el MikroTik para conseguir internet a través de él.
+Además hemos instalado VirtualBox en los 3 servidores.
