@@ -8,4 +8,10 @@ Hemos estado instalando los sistemas operativos en los 3 servidores que luego in
 He estado configurando la red que me quedaba del servidor 3, pero no lo hemos conseguido porque el cable que tiene el internet lo estaban utilizando para intentar configurar el mikrotik Miquel, mientras tanto Álvaro y yo hemos estado reiniciando el router de TP-Link y lo hemos conseguido hacer funcionar. Adrián ha probado a ver si daba internet y si había.
 
 # 27/04/2023
-He estado diseñando el esquema de red y hemos estado viendo un poco el futuro del proyecto
+He estado diseñando el esquema de red y hemos estado viendo un poco el futuro del proyecto.
+
+# 28/04/2023
+He estado mirando el Mikrotik con Miquel, pero hemos visto que hay un problema por el que no nos da internet, no hemos conseguido solucionarlo, probaremos el próximo día o si no nos esperaremos al miércoles para que Raúl nos ayude a identificar el problema porque hemos estado reiniciando varias veces y comprobando que las máscaras de red estaban bien. Luego he estado mirando porque el Servidor 1 no funcionaba, a la hora de arrancar no cogía el S.O. instalado, al final según nos ha explicado Juan era un problema del Legacy Mode.
+
+# 02/05/2023
+He estado mirando un poco más el Mikrotik, pero he dejado que continuase Miquel mientras que yo ponía etiquetas a los servidores, cables, etc… El próxima día organizaré el cableado antes de encenderlo todo y así tenerlo ya organizado, además he estado con Álvaro atornillando el Switch 1 al rack. Luego hemos vuelto a hacer alguna prueba con el Mikrotik, pero sin lograrlo, entonces vamos a esperarnos a mañana con Raúl.
