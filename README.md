@@ -13,3 +13,6 @@ Y Mientras Álvaro, Kevin, Adrián y Alejandro hemos estado con el TP-Link hacie
 # **28/04/2023**
 Hoy nos hemos puesto a instalar de nuevo el Sistema Operativo del Servidor 1 y hemos vuelto a intentar configurar el MikroTik para conseguir internet a través de él.
 Además hemos instalado VirtualBox en los 3 servidores.
+
+# 02/05/2023
+Hemos instalado el VirtualBox en todos los servidores para virtualizar, además de instalar el Extension pack para cifrar los discos de las máquinas virtuales. También hemos organizado un poco el cableado aunque aún falta organizar algunas cosas, Y por último hemos atornillado el Switch 1 al rack.
