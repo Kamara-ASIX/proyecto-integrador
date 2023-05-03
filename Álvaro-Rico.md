@@ -12,4 +12,7 @@ Hoy nos hemos puesto a intentar configurar el MikroTik empezando por resetearlo,
 Hoy nada más empezar, nos hemos dado cuenta de que el Servidor 1 de nuestra sede no arrancaba con su Sistema Operativo y me he puesto a instalarlo de nuevo, después al no conseguir mi compañero Miquel configurar el MikroTik para conseguir internet a través de él, me he puesto a intentarlo yo hasta conseguir algún avance pero no lo hemos conseguido por lo que aún es necesario configurar algo más para ello.
 
 # **02/05/2023**
-Hoy en la única hora que hemos podido ir al taller, hemos dejado instalado los Sistemas Operativos Virtualizados en cada servidor y Kevin y yo hemos empezado a montar nuestro CPD empezando por acoplar el Swtich Principal.
+Hoy en la única hora que hemos podido ir al taller, hemos dejado instalados algunos de los Sistemas Operativos Virtualizados en cada servidor y Kevin y yo hemos empezado a montar nuestro CPD empezando por acoplar el Swtich Principal.
+
+# **03/05/2023**
+Hoy hemos dejado totalmente configurado por fin el Mikrotik, con acceso a Internet y totalmente funcional y mientras Rafa, Alejandro y Adrián acababan de instalar todos los Sistemas Operativos Virtualizados, Kevin y yo hemos crimpado y arreglado los cables que irán conectados al Patch Panel que utilizaremos, además de arreglar la estructura y distribución de nuestro CPD.
