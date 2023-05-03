@@ -15,3 +15,6 @@ He estado mirando el Mikrotik con Miquel, pero hemos visto que hay un problema p
 
 # 02/05/2023
 He estado mirando un poco más el Mikrotik, pero he dejado que continuase Miquel mientras que yo ponía etiquetas a los servidores, cables, etc… El próxima día organizaré el cableado antes de encenderlo todo y así tenerlo ya organizado, además he estado con Álvaro atornillando el Switch 1 al rack. Luego hemos vuelto a hacer alguna prueba con el Mikrotik, pero sin lograrlo, entonces vamos a esperarnos a mañana con Raúl.
+
+# 03/05/2023
+Hemos conseguido obtener internet en el Mikrotik, Álvaro y yo hemos estado crimpando los cables que irán directamente al patch panel, también hemos movido un slot arriba el Switch que pusimos ayer y al entrar a clase he acabado de organizar los cables antes de encender los ordenadores. Luego he estado mirando porque habíamos instalado el Servidor de Dominio con interfaz y lo hemos cambiado a sin interfaz para tener más potencia y consumir menos.
