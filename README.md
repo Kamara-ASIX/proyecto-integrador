@@ -15,7 +15,7 @@ Hoy nos hemos puesto a instalar de nuevo el Sistema Operativo del Servidor 1 y h
 Además hemos instalado VirtualBox en los 3 servidores.
 
 # 02/05/2023
-Hemos instalado el VirtualBox en todos los servidores para virtualizar, además de instalar el Extension pack para cifrar los discos de las máquinas virtuales. También hemos organizado un poco el cableado aunque aún falta organizar algunas cosas, Y por último hemos atornillado el Switch 1 al rack. El Mikrotick se ha quedado a punto de estar configurado con internet despues de conseguir entrar al menu de configuracion gracias al winbox en el ordenador de Kevin ya que el mio no encontraba la mac.
+Hemos instalado el VirtualBox en todos los servidores para virtualizar, además de instalar el Extension pack para cifrar los discos de las máquinas virtuales. También hemos organizado un poco el cableado aunque aún falta organizar algunas cosas, Y por último hemos atornillado el Switch 1 al rack. El Mikrotick se ha quedado a punto de estar configurado con internet despues de conseguir entrar al menu de configuracion gracias a winbox en el ordenador de Kevin ya que el de Miquel no encontraba la mac.
 
 # 03/05/2023
 Hoy se ha quedado totalmente configurado el Mikrotik (Con acceso a Internet). Rafa, Alejandro y Adrián han instalado todos los Sistemas Operativos que faltaban y Kevin y Álvaro han crimpado y arreglado los cables del Patch Panel, además de la estructura y distribución del CPD.
