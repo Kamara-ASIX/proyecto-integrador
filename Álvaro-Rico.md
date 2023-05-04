@@ -16,3 +16,6 @@ Hoy en la única hora que hemos podido ir al taller, hemos dejado instalados alg
 
 # **03/05/2023**
 Hoy hemos dejado totalmente configurado por fin el Mikrotik, con acceso a Internet y totalmente funcional y mientras Rafa, Alejandro y Adrián acababan de instalar todos los Sistemas Operativos Virtualizados, Kevin y yo hemos crimpado y arreglado los cables que irán conectados al Patch Panel que utilizaremos, además de arreglar la estructura y distribución de nuestro CPD.
+
+# **04/05/2023**
+Hoy nada más llegar, Rafa se ha puesto a configurar el servidor principal DC para crear el dominio y Alejandro el BDC para unirlo al dominio, pero al no conseguir Alejandro unirlo, me he puesto yo a investigar y he conseguido unirlo al Dominio exitosamente. Antes de unir el BDC al Dominio Principal, me he puesto a instalar nuestro primer cliente (Windows) pero al tener un fallo con el USB me he quedado haciendolo bootable y lo instalaré el próximo día.
