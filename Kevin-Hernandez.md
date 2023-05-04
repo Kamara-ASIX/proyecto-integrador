@@ -18,3 +18,6 @@ He estado mirando un poco más el Mikrotik, pero he dejado que continuase Miquel
 
 # 03/05/2023
 Hemos conseguido obtener internet en el Mikrotik, Álvaro y yo hemos estado crimpando los cables que irán directamente al patch panel, también hemos movido un slot arriba el Switch que pusimos ayer y al entrar a clase he acabado de organizar los cables antes de encender los ordenadores. Luego he estado mirando porque habíamos instalado el Servidor de Dominio con interfaz y lo hemos cambiado a sin interfaz para tener más potencia y consumir menos.
+
+# 04/05/2023
+He estado instalando el sistema operativo del cliente, además que he estado revisando como íbamos en general y comprobando el trello. Hoy ha sido más un día de organización y verificar como vamos, que de trabajo.
