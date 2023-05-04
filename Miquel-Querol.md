@@ -13,3 +13,6 @@ El Mikrotick se ha quedado a punto de estar configurado con internet despues de 
 # 03/05/2023
 Hoy he seguido probando la configuracion del mikrotick con las ip que son y escogiendo de subrango 192.168.50.1 para otro puerto y despues de que todo me funcionase he cambiado el cable de red del TP-Link al mikrotick y ha funcionado bien ahora voy a comenzar a ordenar la red completa y dejarla bien a la vista.
 Pero al final me he puesto a probar el funcionamiento de las vlan en el mikrotick para ver que funcionen bien y se vean dos vlan diferentes.
+
+# 04/05/2023
+Hoy hemos ido al taller en las horas de redes y he empezado a ver el funcionamiento en las vlan para empezar a configurar el switch que he reseteado para probar su funcionamiento y configurarlo a medida para que tenga las vlan que tengan que ser Tagged Y las que no Untagged y conectadas al id vlan que es.
