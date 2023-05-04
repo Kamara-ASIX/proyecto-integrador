@@ -19,3 +19,6 @@ Hemos instalado el VirtualBox en todos los servidores para virtualizar, además 
 
 # 03/05/2023
 Hoy se ha quedado totalmente configurado el Mikrotik (Con acceso a Internet). Rafa, Alejandro y Adrián han instalado todos los Sistemas Operativos que faltaban y Kevin y Álvaro han crimpado y arreglado los cables del Patch Panel, además de la estructura y distribución del CPD.
+
+# 04/05/2023
+Hoy se han reinstalado los servicios en el Windows Server Core (1 Servidor). Hemos unido el Servidor 2 al dominio principal. Hemos instalado el Primer Cliente.
