@@ -16,3 +16,8 @@ Pero al final me he puesto a probar el funcionamiento de las vlan en el mikrotic
 
 # 04/05/2023
 Hoy hemos ido al taller en las horas de redes y he empezado a ver el funcionamiento en las vlan para empezar a configurar el switch que he reseteado para probar su funcionamiento y configurarlo a medida para que tenga las vlan que tengan que ser Tagged Y las que no Untagged y conectadas al id vlan que es.
+
+# 05/05/2023
+Hoy hemos ido al taller en las 3 horas de redes. Hoy he creado un esquema para comprender las vlans que vamos a utilizar en el mikrotick y el switch y tambien he creado un esquema para saber que vlan necesitamos y cuales pondremos en cada departamento, me falta comprender como configurar el mikrotick y el switch para que todo funcione correctamente
+
+l 
