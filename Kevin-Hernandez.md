@@ -21,3 +21,6 @@ Hemos conseguido obtener internet en el Mikrotik, Álvaro y yo hemos estado crim
 
 # 04/05/2023
 He estado instalando el sistema operativo del cliente, además que he estado revisando como íbamos en general y comprobando el trello. Hoy ha sido más un día de organización y verificar como vamos, que de trabajo.
+
+# 05/05/2023
+He estado junto a Álvaro acabando de crimpar 4 cables más al patch panel y fijarlo en el rack, luego hemos movido e instalado un switch más y así se ha quedado todo el rack anclado, hemos movido el mikrotik. El lunes reorganizaremos todo el cableado del rack.
