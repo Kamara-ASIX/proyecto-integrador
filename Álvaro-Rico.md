@@ -21,4 +21,4 @@ Hoy hemos dejado totalmente configurado por fin el Mikrotik, con acceso a Intern
 Hoy nada más llegar, Rafa se ha puesto a configurar el servidor principal DC para crear el dominio y Alejandro el BDC para unirlo al dominio, pero al no conseguir Alejandro unirlo, me he puesto yo a investigar y he conseguido unirlo al Dominio exitosamente. Antes de unir el BDC al Dominio Principal, me he puesto a instalar nuestro primer cliente (Windows) pero al tener un fallo con el USB me he quedado haciendolo bootable y lo instalaré el próximo día.
 
 # **05/05/2023**
-Hoy en las 3 horas de taller, Kevin y yo nos hemos puesto a organizar de nuevo los servidores a virtualizar debido a una confusión que tuvimos el grupo anteriormente y después hemos dejado todo el CPD montado y arreglado con todos los dispositivos necesarios para la sede.
+Hoy en las 3 horas de taller, Kevin y yo nos hemos puesto a organizar de nuevo los servidores a virtualizar debido a una confusión que tuvimos el grupo anteriormente y después hemos dejado todo el CPD montado y arreglado, previamente crimpando otros 4 cables más al Patch Panel, con todos los dispositivos necesarios para la sede.
