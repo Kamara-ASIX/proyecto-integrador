@@ -22,3 +22,6 @@ Hoy se ha quedado totalmente configurado el Mikrotik (Con acceso a Internet) gra
 
 # 04/05/2023
 Hoy se han reinstalado los servicios en el Windows Server Core (1 Servidor). Hemos unido el Servidor 2 al dominio principal. Hemos instalado el Primer Cliente en una maquina aparte de los servidores. Miquel ha empezado a probar las vlan como funcionan y tambien ha empezado a hacer un esquema de red final para aclarar todos los cables y saber como va a quedar fianlmente todo configurado.
+
+# 05/05/2023
+Miquel ha estado configurando las vlan, Alejandro y Adrián han reinstalado un sistema operativo porque faltaba los volumenes, Rafa ha estado instalando el RSAT. Mientras tanto, Kevin y Álvaro han estado acabado de reorganizar el rack y han instalado 4 cables mas en el patch panel. El lunes reorganizaremos TODOS los cables.
