@@ -20,5 +20,4 @@ He finalizado la configuración del servidor 3, instalando el virtual box justo 
 
 # 02/05/2023
 
-En el servidor 2, he virtualizado un Servidor Windows Core y un Ubuntu Server con los discos cifrados.
-
+He creado en el servidor 1 las máquinas virtuales necesarias con lo respectivos discos cifrados, mientras se probaba el funcionamiento del microtik
