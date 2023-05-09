@@ -32,3 +32,13 @@ He terminado de configurar el internet del servidor 3 e instalar el virtualbox p
 
 
 En el servidor 2, he virtualizado un Servidor Windows Core y un Ubuntu Server con los discos cifrados.
+
+
+03/05/2023
+Adrián , Rafa y yo hemos instalado todos los Sistemas Operativos que faltaban.
+
+04/05/2023
+Hoy se han reinstalado los servicios en el Windows Server Core (1 Servidor). Hemos unido el Servidor 2 al dominio principal. Hemos instalado el Primer Cliente en una maquina aparte de los servidores.  
+
+05/05/2023
+He reinstalado en Ubuntu Server del servidor 2 ya que habia que se nos olvido crear los volumenes. Tras muchos errores ya esta todo configurado bien otra vez.
