@@ -24,3 +24,9 @@ He estado instalando el sistema operativo del cliente, además que he estado rev
 
 # 05/05/2023
 He estado junto a Álvaro acabando de crimpar 4 cables más al patch panel y fijarlo en el rack, luego hemos movido e instalado un switch más y así se ha quedado todo el rack anclado, hemos movido el mikrotik. El lunes reorganizaremos todo el cableado del rack.
+
+# 09/05/2023 
+Hoy hemos estado organizando el cableado del rack, hemos puesto unas canaletas por el suelo, pisemos no se partan los cables y por dentro de ella hemos pasado los 8 cables rj-45 del patch panel. He cambiado el SAI de lugar también y hemos movido un poco los switches del rack. Pero ya está todo con bridas, sujeto y agradable para la vista.
+
+# 10/05/2023
+He empezado el servidor de web externa en AWS y finalmente lo he acabado, está hecha la estructura básica hasta que Jorge nos diga como era la web externa porque nos explicó que teníamos que poner nuestros nombres, etc… Entonces hasta que le pregunte lo dejamos así. Y me he puesto con el servidor de monitorización Zabbix, pero como no habían instalado el servidor de monitorización, pues me he puesto a instalarlo. Mañana intentaré dejarlo instalado.
