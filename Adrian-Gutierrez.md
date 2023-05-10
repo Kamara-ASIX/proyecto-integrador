@@ -20,4 +20,20 @@ He finalizado la configuración del servidor 3, instalando el virtual box justo 
 
 # 02/05/2023
 
-He creado en el servidor 1 las máquinas virtuales necesarias con lo respectivos discos cifrados, mientras se probaba el funcionamiento del microtik
+He creado en el servidor 1 las máquinas virtuales necesarias con lo respectivos discos cifrados, mientras se probaba el funcionamiento del mikrotik
+
+# 03/05/2023
+
+Se ha conseguido obtener internet en el mikrotik. Tambíen se han reinstalado algunas máquinas que no estaban bien configuradas.
+
+# 04/05/2023
+
+Hoy hemos estado intentando unir al dominio una máquina que no se unía y no lográbamos averiguar la razón, pero al final se ha cambiado la dns a la del servidor 1 y ha dado resultado. A parte de eso ha sido un dia de organización de trabajo.
+
+# 05/05/2023
+
+Junto a Alejandro hemos reinstalado el servidor 2, ya que no estaba hecho con volúmenes. Al principio ha dado muchos problemas, pero hemos conseguido que funcionara al final
+
+# 09/05/2023
+
+Hoy ha sido un día de organización. Hemos dispuesto los cables a través de canaletas y hemos posicionado los servidores y clientes de manera que se pudiera acceder a ellos de manera correcta y conectar bien los cables.
