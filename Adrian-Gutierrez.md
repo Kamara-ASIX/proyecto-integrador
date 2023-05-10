@@ -1,3 +1,5 @@
+##REGISTRO DE TRABAJO
+
 # 18/04/2023
 
 Junto con Alejandro y Rafa, hemos llegado a la conclusión de qué sistema operativo instalar en cada servidor y qué servicios ofrecería cada uno. Decidimos instalar Lubuntu 20.04 en los tres servidores y luego virtualizar Windows Server Core 2022 en ellos.
