@@ -49,3 +49,9 @@ Hoy se han reinstalado los servicios en el Windows Server Core (1 Servidor). Hem
 
 
 He reinstalado en Ubuntu Server del servidor 2 ya que habia que se nos olvido crear los volumenes. Tras muchos errores ya esta todo configurado bien otra vez.
+
+
+09/05/2023
+
+
+Hoy hemos organizado entre todos los cables, clientes y servidores... Tambien he relizado la instalacion de 3 clientes.
