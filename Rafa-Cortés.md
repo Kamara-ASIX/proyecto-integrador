@@ -45,3 +45,7 @@ Hoy he creado el dominio de nuevo e instalado los servidores necesarios como DHC
 ## 05/05/2023
 Nos hemos puesto Álvaro y yo a finalizar la instalación del primer cliente. Posteriormente me he puesto a instalar el RSAT y entre todos nos hemos puesto a organziar un poco el cableado. 
 
+## 09/05/2023
+
+Con Adrián y Alejandro, hemos puesto las dos regletas bajo la mesa para organizar todo un poco mejor. Una vez hecho esto, hemos decidido mover los PC clientes de forma que los cables les lleguen desde debajo de la mesa, pasando por el centro de estas. Los PC servidores los hemos movido abajo.
+
