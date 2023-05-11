@@ -30,3 +30,6 @@ Hoy hemos estado organizando el cableado del rack, hemos puesto unas canaletas p
 
 # 10/05/2023
 He empezado el servidor de web externa en AWS y finalmente lo he acabado, está hecha la estructura básica hasta que Jorge nos diga como era la web externa porque nos explicó que teníamos que poner nuestros nombres, etc… Entonces hasta que le pregunte lo dejamos así. Y me he puesto con el servidor de monitorización Zabbix, pero como no habían instalado el servidor de monitorización, pues me he puesto a instalarlo. Mañana intentaré dejarlo instalado.
+
+# 11/05/2023
+He estado mirándome un poco la documentación de Zabbix para cuando esté instalado empezar a monitorizar todo. Mientras acabamos de conseguir internet, he estado creando el servidor de copias de seguridad en AWS, de momento tengo muchas dudas. Sobre la web externa AWS, Jorge me ha dicho que nos lo explicará más adelante, entonces de momento está en el aire.
