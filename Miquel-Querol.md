@@ -20,4 +20,9 @@ Hoy hemos ido al taller en las horas de redes y he empezado a ver el funcionamie
 # 05/05/2023
 Hoy hemos ido al taller en las 3 horas de redes. Hoy he creado un esquema para comprender las vlans que vamos a utilizar en el mikrotick y el switch y tambien he creado un esquema para saber que vlan necesitamos y cuales pondremos en cada departamento, me falta comprender como configurar el mikrotick y el switch para que todo funcione correctamente
 
-l 
+# 10/05/2023
+Hoy hemos ido al taller en las horas de ISO y he seguido probando el funcionamiento de la red para que funcione, Alvaro se ha venido a ayudarme.
+
+# 11/05/2023
+Hoy hemos ido tansolo 2 horas al taller y hemos seguido con el mikrotick solo que ahora nos hemos puesto a hacer que desde el puerto 4 del microtick de internet al punto de acceso y de este a los ordenadores para que se pongan a hacer cosas los demas compañeros
+
