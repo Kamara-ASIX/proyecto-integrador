@@ -25,3 +25,9 @@ Hoy se han reinstalado los servicios en el Windows Server Core (1 Servidor). Hem
 
 ## 05/05/2023
 Miquel ha estado configurando las vlan, Alejandro y Adrián han reinstalado un sistema operativo porque faltaba los volúmenes, Rafa ha estado instalando el RSAT. Mientras tanto, Kevin y Álvaro han estado acabando de reorganizar el rack y han instalado 4 cables más en el patch panel. El lunes reorganizaremos TODOS los cables.
+
+## 10/05/2023
+Alvaro y miquel siguen configurando el microtick para que funcionen las vlans. Kevin ha empezado a hacer el Sitio web de AWS.
+
+## 11/05/2023
+Hemos seguido haciendo la configuracion del microtick y switch para que funcionen las vlans. Kevin tambien ha seguido creando el sitio web en AWS.
