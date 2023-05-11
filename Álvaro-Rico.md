@@ -24,4 +24,7 @@ Hoy nada más llegar, Rafa se ha puesto a configurar el servidor principal DC pa
 Hoy en las 3 horas de taller, Kevin y yo nos hemos puesto a organizar de nuevo los servidores a virtualizar debido a una confusión que tuvimos el grupo anteriormente y después hemos dejado todo el CPD montado y arreglado, previamente crimpando otros 4 cables más al Patch Panel, con todos los dispositivos necesarios para la sede.
 
 # - **09/05/2023**
-Hoy hemos estado organizando el cableado del rack, hemos puesto unas canaletas por el suelo, pisemos no se partan los cables y por dentro de ella hemos pasado los 8 cables rj-45 del patch panel. He cambiado el SAI de lugar también y hemos movido un poco los switches del rack. Pero ya está todo con bridas, sujeto y agradable para la vista.
+Hoy Kevin y yo hemos estado organizando el cableado del rack y hemos puesto unas canaletas por el suelo para que al pisar no se partan los cables y por ella hemos pasado los 8 cables rj-45 que vienen del patch panel. Entre todos hemos decidido cambiar el SAI de lugar y mover un poco los switches. Finalmente ya está todo con bridas, sujeto y agradable para la vista.
+
+# - **10/05/2023**
+Hoy me he puesto a instalar 2 de los 5 clientes que serán necesarios para la sede y al finalizar la instalación de ambos, me he puesto con Miquel a intentar configurar las VLAN del Mikrotik.
