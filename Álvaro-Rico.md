@@ -28,3 +28,9 @@ Hoy Kevin y yo hemos estado organizando el cableado del rack y hemos puesto unas
 
 # - **10/05/2023**
 Hoy me he puesto a instalar 2 de los 5 clientes que serán necesarios para la sede y al finalizar la instalación de ambos, me he puesto con Miquel a intentar configurar las VLAN del Mikrotik.
+
+# - **11/05/2023**
+Hoy en el taller, Miquel y yo hemos seguido intentando configurar el internet del Mikrotik para las VLANS y además he empezado a instalar algún servicio dentro del servidor 1.
+
+# - **12/05/2023**
+Hoy, hemos estado Miquel y yo las 3 horas de taller intentando que funcionasen las VLAN.
