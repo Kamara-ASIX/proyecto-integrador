@@ -33,3 +33,6 @@ He empezado el servidor de web externa en AWS y finalmente lo he acabado, está 
 
 # 11/05/2023
 He estado mirándome un poco la documentación de Zabbix para cuando esté instalado empezar a monitorizar todo. Mientras acabamos de conseguir internet, he estado creando el servidor de copias de seguridad en AWS, de momento tengo muchas dudas. Sobre la web externa AWS, Jorge me ha dicho que nos lo explicará más adelante, entonces de momento está en el aire.
+
+# 12/05/2023
+He estado reformando el trello y he estado haciendo la parte del CPD de la práctica 3.1 de Juan (distribución del rack y CPD)
