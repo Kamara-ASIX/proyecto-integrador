@@ -39,3 +39,8 @@ Junto a Alejandro hemos reinstalado el servidor 2, ya que no estaba hecho con vo
 ## 09/05/2023
 
 Hoy ha sido un día de organización. Hemos dispuesto los cables a través de canaletas y hemos posicionado los servidores y clientes de manera que se pudiera acceder a ellos de manera correcta y conectar bien los cables.
+
+
+## 12/05/2023
+
+Hemos empezado en el taller intentando configurar los ajustes del SAI, cosa que finalmente no se ha conseguido. Mas tarde se ha conseguido dar internet para poder conectarse, por lo que me he puesto a conectar un cliente al dominio, que después de muchos errores ha funcionado.
