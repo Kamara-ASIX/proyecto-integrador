@@ -49,3 +49,10 @@ Nos hemos puesto Álvaro y yo a finalizar la instalación del primer cliente. Po
 
 Con Adrián y Alejandro, hemos puesto las dos regletas bajo la mesa para organizar todo un poco mejor. Una vez hecho esto, hemos decidido mover los PC clientes de forma que los cables les lleguen desde debajo de la mesa, pasando por el centro de estas. Los PC servidores los hemos movido abajo.
 
+## 11/05/2023
+
+He empezado reorganizando un poco el Trello. Después me he puesto a mirar un poco como funcionaba el SAI. Según la página del proveedor me he tenido que descargar la aplicación Winpower para poder configurarlo y monitorizarlo. A falta de un cable para conectar el SAI al PC, no se pudo realizar ninguna configuración.
+
+## 12/05/2023
+
+Hoy nada más empezar, le he pedido a Juan a ver si tenia un cable para poderme conectar al SAI. Me lo ha dado y he empezado a mirar configuraciones en Winpower. Tras estar varias horas buscando en manuales, preguntando a Chat GPT y probando configuraciones, me he rendido y le he dicho a Juan que quizás la configuración de orden de prioridad de apagado del SAI podría no estar disponible en este modelo. Me ha comentado que lo investigará y me informará de si se puede o no.
