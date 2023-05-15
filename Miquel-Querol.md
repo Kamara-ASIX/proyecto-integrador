@@ -24,5 +24,7 @@ Hoy hemos ido al taller en las 3 horas de redes. Hoy he creado un esquema para c
 Hoy hemos ido al taller en las horas de ISO y he seguido probando el funcionamiento de la red para que funcione, Alvaro se ha venido a ayudarme.
 
 # 11/05/2023
-Hoy hemos ido tansolo 2 horas al taller y hemos seguido con el mikrotick solo que ahora nos hemos puesto a hacer que desde el puerto 4 del microtick de internet al punto de acceso y de este a los ordenadores para que se pongan a hacer cosas los demas compañeros
+Hoy hemos ido tansolo 2 horas al taller y hemos seguido con el mikrotick solo que ahora nos hemos puesto a hacer que desde el puerto 4 del microtick de internet al punto de acceso y de este a los ordenadores para que se pongan a hacer cosas los demas compañerosç
 
+# 15/05/2023
+Hoy al fin hemos conseguido configurar las vlan para que funcionen y el internet con ellas gracias a la sede de galicia que me ayudaron a la comprensión de la configuracion de la red y tambien funciona el switch que tiene configurada todas las vlans en cada puerto y los departametos conjuntos con el servidor.
