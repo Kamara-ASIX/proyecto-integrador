@@ -36,3 +36,6 @@ He estado mirándome un poco la documentación de Zabbix para cuando esté insta
 
 # 12/05/2023
 He estado reformando el trello y he estado haciendo la parte del CPD de la práctica 3.1 de Juan (distribución del rack y CPD)
+
+# 15/05/2023
+He estado mirando para configurar el servidor de datos, he dibujado el esquema y mañana empezaré con la instalación
