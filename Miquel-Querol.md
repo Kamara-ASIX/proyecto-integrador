@@ -28,3 +28,6 @@ Hoy hemos ido tansolo 2 horas al taller y hemos seguido con el mikrotick solo qu
 
 # 15/05/2023
 Hoy al fin hemos conseguido configurar las vlan para que funcionen y el internet con ellas gracias a la sede de galicia que me ayudaron a la comprensión de la configuracion de la red y tambien funciona el switch que tiene configurada todas las vlans en cada puerto y los departametos conjuntos con el servidor.
+
+# 16/05/2023
+Hoy hemos ido al taller 4 horas y al llegar he cogido a Alvaro y nos hemos puesto a acabar de hacer el pads panel ya que solo hicieron 6 puertos y nos faltaban 9-10, lo hemos acabado y ahora voy a poner a organizar a la gente porque parece que pasa el tiempo y aun no han comenzado a configurar usuarios, directivas, firewall, permisos... Y a este paso voy a irme a configuracion para hacerlo yo y organizar y si pongo a instalar algo no me siento a ver como va la barrita cargando y me busco cosas para hacer como la intranet pero parece que no :v.
