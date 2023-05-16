@@ -34,3 +34,6 @@ Hemos seguido haciendo la configuracion del microtick y switch para que funcione
 
 ## 15/05/2023
 Hoy han conseguido que se configure la red internet por las vlans y tambien hemos conseguido que se distribullan por todo el switch, nos faltaria volver a hacer el pads pabel debido a que Alvaro y Kevin solo crimparon 5 cables ethernet y necesitariamos 15 en total aproximadamente pero para el proximo dia ya quedaran la red totalmente configurada y los servicios totalmente instalados para empezar a configurar todos los servicios y maquinas.
+
+# 16/05/2023
+El dia de hoy hemos ido 4 horas al taller las cuales hemos cogido el pads panel y hemos acabado de crimparle las conexiones que nos faltaban mientras que la red funciona perfectamente con la vlas, el mickrotick y el switch para que siguan intalando aplicaciones y servicios.
