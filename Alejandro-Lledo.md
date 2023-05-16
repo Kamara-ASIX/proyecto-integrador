@@ -40,3 +40,12 @@ He reinstalado en Ubuntu Server del servidor 2 ya que habia que se nos olvido cr
 # 09/05/2023
 
 Hoy hemos organizado entre todos los cables, clientes y servidores... Tambien he relizado la instalacion de 3 clientes.
+
+# 12/05/2023
+
+Hoy he estado uniendo los clientes al dominio
+
+# 15/05/2023
+
+Se ha conseguido que las vlan funcionen entonces Adrian y yo hemos estado configurando las ip´s de las maquinas para comprobar que funcionan correctamente y podemos seguir avanzando con el proyecto
+
