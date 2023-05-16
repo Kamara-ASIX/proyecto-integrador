@@ -39,3 +39,6 @@ He estado reformando el trello y he estado haciendo la parte del CPD de la prác
 
 # 15/05/2023
 He estado mirando para configurar el servidor de datos, he dibujado el esquema y mañana empezaré con la instalación
+
+# 16/05/2023
+He estado instalando el servidor de datos (FreeNAS), me ha dado varios problemas y estoy resolviéndolos porque por ejemplo necesitamos el DHCP. Supongo que tardaré un par de días aún hasta tenerlo todo funcionando con AWS
