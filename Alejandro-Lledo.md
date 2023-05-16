@@ -1,13 +1,6 @@
 # 18/04/2023
 
-Mientras que Kevin, Álvaro y Miquel iban al taller para dividir las subredes, Rafa, Adrián y yo decidiamos que sistema operartivo ibamos a instalar en cada servidor y que servicios iba a proporcionar cada no de estos. Concluimos en instalar un Lubuntu 20.04 en los tres servidores y después virtualizar Windows Server Core 2022 en ellos. Y los servicios los distribuímos de la siguiente manera:
-
-1er Servidor Físico: SO Lubuntu GUI
-
-Servidor empresarial y monitorització: Windows Server Core 2022
-2º Servidor Físico: SO Lubuntu GUI 2. Servidor empresarial secundari o adicional: Windows Server Core 2022 5. Servidors de dades: 6. Servidor web intranet:
-
-3er Servidor Físico: SO Lubuntu GUI 7. Servidor web extern: 3. Servidor d’aplicacions i utilitats
+Mientras que Kevin, Álvaro y Miquel iban al taller para dividir las subredes, Rafa, Adrián y yo decidiamos que sistema operartivo ibamos a instalar en cada servidor y que servicios iba a proporcionar cada uno de estos. Concluimos en instalar un Lubuntu 20.04 en los tres servidores y después virtualizar Windows Server Core 2022 en ellos.
 
 # 20/04/2023
 
