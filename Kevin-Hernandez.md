@@ -42,3 +42,6 @@ He estado mirando para configurar el servidor de datos, he dibujado el esquema y
 
 # 16/05/2023
 He estado instalando el servidor de datos (FreeNAS), me ha dado varios problemas y estoy resolviéndolos porque por ejemplo necesitamos el DHCP. Supongo que tardaré un par de días aún hasta tenerlo todo funcionando con AWS
+
+# 17/06/2023
+He empezado a instalar el SSH en todos los servidores, pero me he dado cuenta de que el servidor 2 estaba mal instalado (las particiones) y nos ha tocado volver a instalarlo, mientras tanto he empezado a pasar a limpio para imprimir la hoja de conexiones del rack, donde va cada cosa y cada puerto, etc.
