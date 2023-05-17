@@ -44,3 +44,9 @@ Hoy ha sido un día de organización. Hemos dispuesto los cables a través de ca
 ## 12/05/2023
 
 Hemos empezado en el taller intentando configurar los ajustes del SAI, cosa que finalmente no se ha conseguido. Mas tarde se ha conseguido dar internet para poder conectarse, por lo que me he puesto a conectar un cliente al dominio, que después de muchos errores ha funcionado.
+
+## 15/05/2023
+El cliente que funcionaba el otro día ha dejado de funcionar, pero después de mucho rato viendo que le pasaba y tocando las ip he conseguido que volviera a funcionar como debía.
+
+## 16/05/2023
+He empezado a instalar el rsat en un cliente, ya que he estado mucho tiempo intentando que funcionara el wac y daba un error que nadie sabía arreglar.
