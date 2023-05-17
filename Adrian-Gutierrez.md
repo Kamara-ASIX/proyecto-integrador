@@ -34,7 +34,7 @@ Hoy hemos estado intentando unir al dominio una máquina que no se unía y no lo
 
 ## 05/05/2023
 
-Junto a Alejandro hemos reinstalado el servidor 2, ya que no estaba hecho con volúmenes. Al principio ha dado muchos problemas, pero hemos conseguido que funcionara al final
+Junto a Alejandro hemos reinstalado un ubuntu server en el servidor 2, ya que no estaba hecho con volúmenes. Al principio ha dado muchos problemas, pero hemos conseguido que funcionara al final
 
 ## 09/05/2023
 
