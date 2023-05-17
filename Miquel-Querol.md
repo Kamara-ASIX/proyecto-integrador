@@ -31,3 +31,6 @@ Hoy al fin hemos conseguido configurar las vlan para que funcionen y el internet
 
 # 16/05/2023
 Hoy hemos ido al taller 4 horas y al llegar he cogido a Alvaro y nos hemos puesto a acabar de hacer el pads panel ya que solo hicieron 6 puertos y nos faltaban 9-10, lo hemos acabado y ahora voy a poner a organizar a la gente porque parece que pasa el tiempo y aun no han comenzado a configurar usuarios, directivas, firewall, permisos... Y a este paso voy a irme a configuracion para hacerlo yo y organizar y si pongo a instalar algo no me siento a ver como va la barrita cargando y me busco cosas para hacer como la intranet pero parece que no :v.
+
+# 17/05/2023
+Hemos ido al taller a la hora despues del patio en redes y he probado el dhcp en el mickrotik y lo he dejado completamente configurado para que el switch tenga todas las vlans con dhcp, solo me faltaria configurar un trunck en el switch para que redirija la vlan de produccion hacia el otro switch que no es configurable para poder conectar los supuestos 30 clientes. Al haber acabado de configurar y probar el dhcp rapido voy a empezar la intranet para lenguaje hecha en bootstrap.
