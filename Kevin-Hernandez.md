@@ -45,3 +45,6 @@ He estado instalando el servidor de datos (FreeNAS), me ha dado varios problemas
 
 # 17/06/2023
 He empezado a instalar el SSH en todos los servidores, pero me he dado cuenta de que el servidor 2 estaba mal instalado (las particiones) y nos ha tocado volver a instalarlo, mientras tanto he empezado a pasar a limpio para imprimir la hoja de conexiones del rack, donde va cada cosa y cada puerto, etc.
+
+# 18/06/2023
+He acabado la hoja de conexiones del rack, cada puerto donde irá y que equipo tendrá conectado. Esta en digital por lo que lo imprimiremos.
