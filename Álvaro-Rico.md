@@ -34,3 +34,15 @@ Hoy en el taller, Miquel y yo hemos seguido intentando configurar el internet de
 
 # - **12/05/2023**
 Hoy, hemos estado Miquel y yo las 3 horas de taller intentando que funcionasen las VLAN.
+
+# - **15/05/2023**
+Hoy, Miquel y yo hemos estado intentando que todos los equipos tuviesen internet después de configurar las VLAN's en el Mikrotik.
+
+# - **16/05/2023**
+Hoy en las horas de taller, después de dejar el Mikrotik totalmente echo y funcional con todas las VLAN's y acceso a internet, Miquel, Rafa y yo nos hemos puesto a crimpar 11 cables restantes que nos faltaban del Patch Panel, lo cúal nos ha llevado bastante tiempo, ya que, solo disponíamos de 8 ya crimpados entre varios días.
+
+# - **17/06/2023**
+Hoy, después de haber crimpado los 11 cables más al Patch Panel, he conectado con la ayuda de Rafa el Patch Panel al CPD y hemos organizado todos los cables por las canaletas y todo el recorrido de ellos hasta los equipos finales.
+
+# - **18/06/2023**
+Hoy he echo con la ayuda de Alejandro todo el script para crear e implementar todos los Usuarios, Grupos y OU's de nuestro servidor DomainController.
