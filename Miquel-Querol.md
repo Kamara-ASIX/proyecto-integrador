@@ -34,3 +34,7 @@ Hoy hemos ido al taller 4 horas y al llegar he cogido a Alvaro y nos hemos puest
 
 # 17/05/2023
 Hemos ido al taller a la hora despues del patio en redes y he probado el dhcp en el mickrotik y lo he dejado completamente configurado para que el switch tenga todas las vlans con dhcp, solo me faltaria configurar un trunck en el switch para que redirija la vlan de produccion hacia el otro switch que no es configurable para poder conectar los supuestos 30 clientes. Al haber acabado de configurar y probar el dhcp rapido voy a empezar la intranet para lenguaje hecha en bootstrap.
+
+
+# 19/05/2023
+El dia de hoy he llegado y he aprendido a acceder al switch cisco desde el serial port y configurarlo desde la terminal de putty, pero como hemos tenido que probar que se vean las vlans me he quedado a medias haciendolo el lunes seguire probando las vlan y configurare el cisco.
