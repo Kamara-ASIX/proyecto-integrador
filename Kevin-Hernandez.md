@@ -48,3 +48,6 @@ He empezado a instalar el SSH en todos los servidores, pero me he dado cuenta de
 
 # 18/06/2023
 He acabado la hoja de conexiones del rack, cada puerto donde irá y que equipo tendrá conectado. Esta en digital por lo que lo imprimiremos.
+
+# 19/05/2023
+He reorganizado todos los latiguillos del patch panel, los he cambiado todos. Además los he identificado y he comprobado que nos funcionan y los que no han funcionado los he apartado.
