@@ -38,3 +38,6 @@ Hemos ido al taller a la hora despues del patio en redes y he probado el dhcp en
 
 # 19/05/2023
 El dia de hoy he llegado y he aprendido a acceder al switch cisco desde el serial port y configurarlo desde la terminal de putty, pero como hemos tenido que probar que se vean las vlans me he quedado a medias haciendolo el lunes seguire probando las vlan y configurare el cisco.
+
+# 22/05/2023
+Hoy lunes he llegado y he seguido probando configuraciones en el switch cisco para que pueda repetir la vlan 90 en todos los puertos menos en el 1 que es el que recibe y he estado toda la clase probando configuraciones que he encontrado en youtube y en foros pero no me repite el dhcp que tengo configurado en la vlan y desde el puerto que conecta el switch si que me da el dhcp pero al conectarlo y configurarlo no, me parece que el ritmo de mi grupo es lamentable en cuanto a los 3 compañeros que llegan al taller y se pasan jugando con el movil o ordenador o mirando como se intala el sistema operativo en vez de ir a trello ver que hay que hacer o simplemente preguntar, no creo que llegemos al ultimo dia con todo lo que piden.
