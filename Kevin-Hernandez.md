@@ -51,3 +51,6 @@ He acabado la hoja de conexiones del rack, cada puerto donde irá y que equipo t
 
 # 19/05/2023
 He reorganizado todos los latiguillos del patch panel, los he cambiado todos. Además los he identificado y he comprobado que nos funcionan y los que no han funcionado los he apartado.
+
+# 22/05/2023
+He estado ayudando a Álvaro a instalar el cliente de Zabbix para comprobar la monitorización mientras él instalaba el servidor, y también he estado instalado todo el servidor de almacenamiento y he configurado el TrueNAS
