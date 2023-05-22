@@ -42,3 +42,7 @@ Hoy he estado uniendo los clientes al dominio
 
 Se ha conseguido que las vlan funcionen entonces Adrian y yo hemos estado configurando las ip´s de las maquinas para comprobar que funcionan correctamente y podemos seguir avanzando con el proyecto
 
+# 18/05/2023 - 19/05/2023
+
+Alvaro y yo hemos estado haciendo el script tanto para añadir los usuarios al dominio como para eliminarlos.
+
