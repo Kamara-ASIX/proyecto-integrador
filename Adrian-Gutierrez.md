@@ -73,3 +73,8 @@ patch panel
 ## 18/05/2023
 
 instalar servidor 2 y virtual box
+
+
+## 19/05/2023
+
+instalar servidor en virtual box en servidor 2
