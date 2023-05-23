@@ -87,6 +87,6 @@ reinstalar cliente 4
 
 ## 23/05/2023
 
-configurar cliente 4, instalar virtual box y clientes
+configurar cliente 4, instalar virtual box, volver a reinstalar cliente pero con lubuntu
 
 
