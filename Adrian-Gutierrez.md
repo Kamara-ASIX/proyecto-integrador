@@ -78,3 +78,15 @@ instalar servidor 2 y virtual box
 ## 19/05/2023
 
 instalar servidor en virtual box en servidor 2
+
+
+## 22/05/2023
+
+reinstalar cliente 4
+
+
+## 23/05/2023
+
+configurar cliente 4, instalar virtual box y clientes
+
+
