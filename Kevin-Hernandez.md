@@ -54,3 +54,7 @@ He reorganizado todos los latiguillos del patch panel, los he cambiado todos. Ad
 
 # 22/05/2023
 He estado ayudando a Álvaro a instalar el cliente de Zabbix para comprobar la monitorización mientras él instalaba el servidor, y también he estado instalado todo el servidor de almacenamiento y he configurado el TrueNAS
+
+# 23/05/2023
+He reorganizado todos los cables de red desde el patch panel hasta los equipos y he cambiado también los latiguillos. He cambiado un par de departamentos en las VLAN porque estaban mal o faltaban, y también he distribuido las IP. He creado un esquema para saber cada cable donde va conectado.
+![RACK drawio](https://github.com/Kamara-ASIX/proyecto-integrador/assets/128040590/3243d671-ce01-4c09-8c3a-33d99bda9a21)
