@@ -45,4 +45,16 @@ Hoy en las horas de taller, después de dejar el Mikrotik totalmente echo y func
 Hoy, después de haber crimpado los 11 cables más al Patch Panel, he conectado con la ayuda de Rafa el Patch Panel al CPD y hemos organizado todos los cables por las canaletas y todo el recorrido de ellos hasta los equipos finales.
 
 # - **18/06/2023**
-Hoy he echo con la ayuda de Alejandro todo el script para crear e implementar todos los Usuarios, Grupos y OU's de nuestro servidor DomainController.
+Hoy he echo con la ayuda de Alejandro todo el script para crear e implementar todos los Usuarios, Grupos y OU's de nuestro servidor DomainController aunque no nos ha llegado a funcionar del todo por ciertos errores con 3 usuarios.
+
+# - **19/06/2023**
+Hoy he dejado terminado y totalmente funcional el script de los usuarios de la sede.
+
+# - **22/05/2023**
+Hoy he estado instalando desde 0 el Servidor de monitorización en Virtualbox, configurandólo y instalando los paquetes necesario para hacer un servidor Zabbix.
+
+# - **23/05/2023**
+Hoy he me he puesto a documentarme un poco para poder configurar el servidor Zabbix, pero por un problema no lo he podido dejar totalmente funcional.
+
+# - **24/05/2023**
+Al solucionar el problema que se trataba de una línea que faltaba en el fichero de configuración (/etc/zabbix/zabbix_server.conf), he dejado el servidor funcionando, además he conseguido añadir el Mikrotik para monitorearlo y no he podido añadir los clientes, por un fallo que tuvimos al instalarlos.
