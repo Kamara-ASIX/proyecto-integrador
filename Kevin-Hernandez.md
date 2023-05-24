@@ -58,3 +58,6 @@ He estado ayudando a Álvaro a instalar el cliente de Zabbix para comprobar la m
 # 23/05/2023
 He reorganizado todos los cables de red desde el patch panel hasta los equipos y he cambiado también los latiguillos. He cambiado un par de departamentos en las VLAN porque estaban mal o faltaban, y también he distribuido las IP. He creado un esquema para saber cada cable donde va conectado.
 ![RACK drawio](https://github.com/Kamara-ASIX/proyecto-integrador/assets/128040590/3243d671-ce01-4c09-8c3a-33d99bda9a21)
+
+# 24/05/2023
+Hoy hemos tenido poco tiempo porque han cortado la luz, pero me ha dado tiempo a colgar la hoja que hice ayer en el patch panel y a seguir con la práctica de Juan 3.1 que la tenemos para mañana.
