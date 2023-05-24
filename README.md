@@ -43,3 +43,9 @@ Hemos seguido configurando vlan y nos hemos puesto con el DHCP, además hemos es
 
 ## 18/05/2023
 Hemos acabado la hoja de conexiones, hemos reinstalado el servidor 2 y hemos empezado a instalar el backup de dominio que teníamos, también hemos estado instalando el ssh en los servidores y equipos. Y por último hemos hecho el script de usuarios
+
+## 19/05/2023
+Kevin, ha reorganizado todos los latiguillos del patch panel, los ha cambiado todos. Además los ha identificado y ha comprobado que funcionan y los que no, los ha apartado. Álvaro y Alejandro han dejado terminado y totalmente funcional el script de los usuarios de la sede. Miquel ha aprendido a acceder al switch cisco desde el serial port y configurarlo desde la terminal de putty y Adrián ha instalado el servidor 2 en virtual box.
+
+## 22/05/2023
+Adrian ha reinstalado el cliente 4. Kevin ha estado ayudando a Álvaro a instalar el cliente de Zabbix, después de haber instalado el servidor, para comprobar la monitorización mientras él instalaba el servidor, y también ha estado instalado todo el servidor de almacenamiento y ha configurado el TrueNAS. Miquel mientras tanto, ha seguido probando la configuración en el switch cisco, la cúal es complicada, para que pueda repetir la vlan 90 en todos los puertos.
