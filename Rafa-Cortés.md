@@ -56,3 +56,25 @@ He empezado reorganizando un poco el Trello. Después me he puesto a mirar un po
 ## 12/05/2023
 
 Hoy nada más empezar, le he pedido a Juan a ver si tenia un cable para poderme conectar al SAI. Me lo ha dado y he empezado a mirar configuraciones en Winpower. Tras estar varias horas buscando en manuales, preguntando a Chat GPT y probando configuraciones, me he rendido y le he dicho a Juan que quizás la configuración de orden de prioridad de apagado del SAI podría no estar disponible en este modelo. Me ha comentado que lo investigará y me informará de si se puede o no.
+
+## 15/05/2023
+
+Junto con Álvaro y Miquel nos hemos puesto a crimpar de nuevo el Patch Panel ya que nos faltaban cables.
+
+## 16/05/2023
+
+Con Álvaro y Miquel hemos acabado de crimpar lo poco que nos quedaba del Patch Panel y después con Álvaro y Alejandro hemos probado los cables y etiquetado estos. Después el Patch Panel lo hemos puesto en el rack, le hemos puesto las bridas y pasado los cables por la canaleta del suelo.
+
+## 17/05/2023
+
+He estado probando a conectar por ssh un cliente con el servidor 3 (Aplicaciones y características). He creado reglas en el firewall de ambos equipos pero no ha habido manera. He recurrido a Miquel por si era un error de red pero no hemos podido encontrar que fallaba.
+
+## 18/05/2023
+
+He seguido intentando probar lo del ssh pero al ver que no funcionaba me he dado por vencido y he empezado a configurar el servidor 3 (Aplicaciones y características).
+
+## 19/05/2023
+
+## 22/05/2023
+
+## 23/05/2023
