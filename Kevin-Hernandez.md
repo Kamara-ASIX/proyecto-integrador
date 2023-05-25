@@ -61,3 +61,8 @@ He reorganizado todos los cables de red desde el patch panel hasta los equipos y
 
 # 24/05/2023
 Hoy hemos tenido poco tiempo porque han cortado la luz, pero me ha dado tiempo a colgar la hoja que hice ayer en el patch panel y a seguir con la práctica de Juan 3.1 que la tenemos para mañana.
+
+# 25/05/2023
+He probado con Álvaro si desde un cliente teníamos conexión SSH con el Servidor 1, una vez comprobado que funcionaba, he estado con Miquel cambiando todos los cables del Patch Panel a los diferentes switches, uno de ellos no funcionaba y Raúl nos lo ha cambiado, y por último he actualizado la hoja de conexiones.
+
+![RACK drawio](https://github.com/Kamara-ASIX/proyecto-integrador/assets/128040590/e78b7c2b-d2c5-4d3e-86d6-7a269488628d)
