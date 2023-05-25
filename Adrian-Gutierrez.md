@@ -91,4 +91,9 @@ configurar cliente 4, instalar virtual box, volver a reinstalar cliente pero con
 
 ## 24/05/2023
 
-instalar vierual box, muchas complicaciones, tanto con virtual box como con windows
+instalar vierual box en cliente 4, muchas complicaciones, tanto con virtual box como con windows
+
+
+## 25/05/2023
+
+Instalar windows en un cliente del cliente 4, pero se va la luz y empezar de nuevo.
