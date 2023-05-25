@@ -60,4 +60,4 @@ Hoy he me he puesto a documentarme un poco para poder configurar el servidor Zab
 Al solucionar el problema que se trataba de una línea que faltaba en el fichero de configuración (/etc/zabbix/zabbix_server.conf), he dejado el servidor funcionando, además he conseguido añadir el Mikrotik para monitorearlo y no he podido añadir los clientes, por un fallo que tuvimos al instalarlos.
 
 # - **25/05/2023**
-***
+Hoy, he estado con Kevin probando la conexión ssh para acceder remotamente desde el cliente 3 al servidor 1. También he ayudado a Miquel a cambiar los cables del switch TP Link y organizarlos para conectarlos al switch Cisco.
