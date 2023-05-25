@@ -75,6 +75,16 @@ He seguido intentando probar lo del ssh pero al ver que no funcionaba me he dado
 
 ## 19/05/2023
 
+He visto en la documentacion que el servidor 3 (Aplicaciones y características) estaba mal instalado, ya que habían puesto un Debian y debe ser un Windows Server. Por tanto me ha tocado reinstalarlo y añadirlo al dominio tras haber tenido varios problemas con la red.
+
 ## 22/05/2023
 
+Por alguna razón al Miquel cambiar un parámetro de la red la máquina host servidor 3 (Aplicaciones y características) ha dado un error y no iniciaba ni dejaba abrir la consola bash. Tras estar probando un rato con Juan si se podía solucionar, se decide que reinstalaremos la máquina host.
+
 ## 23/05/2023
+
+Empiezo a instalar Windows Server en el servidor 3 (Aplicaciones y características). Lo configuro y uno al dominio. Nos quitan la luz y no podemos continuar trabajando.
+
+## 25/05/2023
+
+Instalo en el servidor 3 (Aplicaciones y características) los paquetes de Gimp y LibreOffice que después serán publicados para que los clientes puedan decidir si instalarlos o no.
