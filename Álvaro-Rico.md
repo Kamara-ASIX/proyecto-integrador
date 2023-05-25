@@ -58,3 +58,6 @@ Hoy he me he puesto a documentarme un poco para poder configurar el servidor Zab
 
 # - **24/05/2023**
 Al solucionar el problema que se trataba de una línea que faltaba en el fichero de configuración (/etc/zabbix/zabbix_server.conf), he dejado el servidor funcionando, además he conseguido añadir el Mikrotik para monitorearlo y no he podido añadir los clientes, por un fallo que tuvimos al instalarlos.
+
+# - **25/05/2023**
+***
