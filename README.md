@@ -49,3 +49,6 @@ Kevin, ha reorganizado todos los latiguillos del patch panel, los ha cambiado to
 
 ## 22/05/2023
 Adrian ha reinstalado el cliente 4. Kevin ha estado ayudando a Álvaro a instalar el cliente de Zabbix, después de haber instalado el servidor, para comprobar la monitorización mientras él instalaba el servidor, y también ha estado instalado todo el servidor de almacenamiento y ha configurado el TrueNAS. Miquel mientras tanto, ha seguido probando la configuración en el switch cisco, la cúal es complicada, para que pueda repetir la vlan 90 en todos los puertos.
+
+## 23/05/2023
+Álvaro, hoy se ha puesto a documentarse un poco para poder configurar el servidor Zabbix, pero por un problema no lo ha podido dejar totalmente funcional. Kevin ha reorganizado todos los cables de red desde el patch panel hasta los equipos y ha cambiado y comprobado los latiguillos. También ha cambiado un par de departamentos en las VLAN porque estaban mal o faltaban. Adrian ha configurado el cliente 4, instalandole virtual box y creando el cliente lubuntu.
