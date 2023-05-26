@@ -67,33 +67,34 @@ He empezado a instalar el rsat en un cliente, ya que he estado mucho tiempo inte
 
 ## 17/05/2023
 
-patch panel
+Hoy hemos instalado el patch panel en el rack, cosa que nos ha llevado todo el tiempo.
 
 
 ## 18/05/2023
 
-instalar servidor 2 y virtual box
+He reinstalado el servidor e empezado a instalar virtual box en este, cosa que no me ha dado tiempo.
 
 
 ## 19/05/2023
 
-instalar servidor en virtual box en servidor 2
+He terminado de instalar el virtual box en el servidor 2 después de muchos problemas de compatibilidad y versiones.
 
 
 ## 22/05/2023
 
-reinstalar cliente 4
+He reinstalado el cliente 4 porque el windows no cargaba.
 
 
 ## 23/05/2023
-configurar cliente 4, instalar virtual box, volver a reinstalar cliente pero con lubuntu
+
+Después de estar un rato configurando el cliente 4, instalando el virtual box y empezando a instalar las máquinas me ha tocada reinstalar el cliente porque se había hecho en windows en lugar de en lubuntu.
 
 
 ## 24/05/2023
 
-instalar vierual box en cliente 4, muchas complicaciones, tanto con virtual box como con windows
+He instalado el virtual box en el cliente 4, que ha dado muchisimos problemas, tanto con la instalación de virtual box, como el inicio de este o la iso de windows que no estaba bien.
 
 
 ## 25/05/2023
 
-Instalar windows en un cliente del cliente 4, pero se va la luz y empezar de nuevo.
+He empezado a instalar un windows en el cliente 4, pero cuando estaba a punto de terminar se ha cortado la luz y me ha tocado empezar desde el principio.
