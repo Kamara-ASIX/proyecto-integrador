@@ -66,3 +66,6 @@ Hoy hemos tenido poco tiempo porque han cortado la luz, pero me ha dado tiempo a
 He probado con Álvaro si desde un cliente teníamos conexión SSH con el Servidor 1, una vez comprobado que funcionaba, he estado con Miquel cambiando todos los cables del Patch Panel a los diferentes switches, uno de ellos no funcionaba y Raúl nos lo ha cambiado, y por último he actualizado la hoja de conexiones.
 
 ![RACK drawio](https://github.com/Kamara-ASIX/proyecto-integrador/assets/128040590/e78b7c2b-d2c5-4d3e-86d6-7a269488628d)
+
+# 26/05/2023
+He estado hablando con Juan para la práctica 3.1, finalmente dice que no tiene prisa por entregarla, he estado con Miquel cambiando el esquema de red según lo que él ha configurado, yo lo he puesto en la hoja que imprimiré y estará al lado del rack, además he cambiado un par de cables que iban a la regleta y la he fijado al suelo, ya que la habíamos cambiado de lado por problemas de que saltaba la luz.
