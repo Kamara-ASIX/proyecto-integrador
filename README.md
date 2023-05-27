@@ -33,7 +33,7 @@ Alvaro y miquel siguen configurando el microtick para que funcionen las vlans. K
 Hemos seguido haciendo la configuracion del microtick y switch para que funcionen las vlans probando las configuraciones que salen el los videos de Redes pero no funciona por lo que hemos optado por probar la configuracion de otro grupo que les funcionen y restaurar un backup y configurarlo para nuestra sede. Kevin tambien ha seguido creando el sitio web en AWS.
 
 ## 15/05/2023
-Hoy han conseguido que se configure la red internet por las vlans y tambien hemos conseguido que se distribullan por todo el switch, nos faltaria volver a hacer el pads pabel debido a que Alvaro y Kevin solo crimparon 5 cables ethernet y necesitariamos 15 en total aproximadamente pero para el proximo dia ya quedaran la red totalmente configurada y los servicios totalmente instalados para empezar a configurar todos los servicios y maquinas.
+Hoy han conseguido que se configure la red internet por las vlans y tambien hemos conseguido que se distribullan por todo el switch, nos faltaria volver a hacer el patch panel debido a que Alvaro y Kevin solo crimparon 5 cables ethernet y necesitariamos 15 en total aproximadamente pero para el proximo dia ya quedaran la red totalmente configurada y los servicios totalmente instalados para empezar a configurar todos los servicios y maquinas.
 
 ## 16/05/2023
 El dia de hoy hemos ido 4 horas al taller las cuales hemos cogido el patch panel y hemos acabado de crimparle las conexiones que nos faltaban mientras que la red funciona perfectamente con la vlas, el mickrotick y el switch para que siguan intalando aplicaciones y servicios.
@@ -52,3 +52,6 @@ Adrian ha reinstalado el cliente 4. Kevin ha estado ayudando a Álvaro a instala
 
 ## 23/05/2023
 Álvaro, hoy se ha puesto a documentarse un poco para poder configurar el servidor Zabbix, pero por un problema no lo ha podido dejar totalmente funcional. Kevin ha reorganizado todos los cables de red desde el patch panel hasta los equipos y ha cambiado y comprobado los latiguillos. También ha cambiado un par de departamentos en las VLAN porque estaban mal o faltaban. Adrian ha configurado el cliente 4, instalandole virtual box y creando el cliente lubuntu.
+
+## 26/05/2023
+Miquel ha acabado de configurar el switch Cisco y Kevin ha estado con el esquema de red poniendo las VLAN y los cables donde van. Mientras tanto, Álvaro ha estado instalando el agente Zabbix para probarlo en el servidor de monitorización.
