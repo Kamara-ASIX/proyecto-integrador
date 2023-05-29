@@ -55,3 +55,6 @@ Adrian ha reinstalado el cliente 4. Kevin ha estado ayudando a Álvaro a instala
 
 ## 26/05/2023
 Miquel ha acabado de configurar el switch Cisco y Kevin ha estado con el esquema de red poniendo las VLAN y los cables donde van. Mientras tanto, Álvaro ha estado instalando el agente Zabbix para probarlo en el servidor de monitorización.
+
+## 29/05/2023
+La red ha quedado completamente configurada y probada para su funcionamiento y faltaria hacele la documentacion de como esta configurada y esta parte ya estaria preparada para dejarla de lado.
