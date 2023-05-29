@@ -98,3 +98,7 @@ He instalado el virtual box en el cliente 4, que ha dado muchisimos problemas, t
 ## 25/05/2023
 
 He empezado a instalar un windows en el cliente 4, pero cuando estaba a punto de terminar se ha cortado la luz y me ha tocado empezar desde el principio.
+
+
+## 25/05/2023
+instalar windows cliente 4
