@@ -69,3 +69,6 @@ He probado con Álvaro si desde un cliente teníamos conexión SSH con el Servid
 
 # 26/05/2023
 He estado hablando con Juan para la práctica 3.1, finalmente dice que no tiene prisa por entregarla, he estado con Miquel cambiando el esquema de red según lo que él ha configurado, yo lo he puesto en la hoja que imprimiré y estará al lado del rack, además he cambiado un par de cables que iban a la regleta y la he fijado al suelo, ya que la habíamos cambiado de lado por problemas de que saltaba la luz.
+
+# 29/05/2023
+He estado con Rafa uniendo el BDC al dominio, luego le hemos puesto como backup, es decir, que copie toda la configuración del dominio en el backup y por último hemos estado con el servidor de aplicaciones instalándolo. Además, he estado con Miquel mirando el esquema y lo he impreso, mañana lo pondré en el rack.
