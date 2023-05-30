@@ -72,3 +72,6 @@ He estado hablando con Juan para la práctica 3.1, finalmente dice que no tiene 
 
 # 29/05/2023
 He estado con Rafa uniendo el BDC al dominio, luego le hemos puesto como backup, es decir, que copie toda la configuración del dominio en el backup y por último hemos estado con el servidor de aplicaciones instalándolo. Además, he estado con Miquel mirando el esquema y lo he impreso, mañana lo pondré en el rack.
+
+# 30/05/2023
+He estado colocando la hoja de conexiones en el rack, después de eso me he puesto con el servidor de almacenamiento, he creado un Windows Server al que le he conectado el pool de dades, después de varios errores ha funcionado, mientras tanto me he puesto con el pool de backup para conectarla a AWS. Se ha conectado mediante EFS al linux, pero me he quedado configurándole los permisos para poder crear archivos y carpetas.
