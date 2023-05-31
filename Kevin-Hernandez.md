@@ -75,3 +75,6 @@ He estado con Rafa uniendo el BDC al dominio, luego le hemos puesto como backup,
 
 # 30/05/2023
 He estado colocando la hoja de conexiones en el rack, después de eso me he puesto con el servidor de almacenamiento, he creado un Windows Server al que le he conectado el pool de dades, después de varios errores ha funcionado, mientras tanto me he puesto con el pool de backup para conectarla a AWS. Se ha conectado mediante EFS al linux, pero me he quedado configurándole los permisos para poder crear archivos y carpetas.
+
+# 31/05/2023
+Hoy he estado peleando con los permisos de las carpetas porque no me deja cambiar los permisos, despues de mucho intentarlo lo he dejado mientras voy a hacer lo de compartir las carpetas por DFS.
