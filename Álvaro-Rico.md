@@ -61,3 +61,6 @@ Al solucionar el problema que se trataba de una línea que faltaba en el fichero
 
 # - **25/05/2023**
 Hoy, he estado con Kevin probando la conexión ssh para acceder remotamente desde el cliente 3 al servidor 1. También he ayudado a Miquel a cambiar los cables del switch TP Link y organizarlos para conectarlos al switch Cisco.
+
+# - **29/05/2023**
+Hoy, me he puesto a configurar el Domain Controller desde RSAT (Cliente 3), he estado arreglando el script de usuarios y he intentado unir un cliente al servidor de monitorización Zabbix.
