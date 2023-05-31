@@ -62,5 +62,11 @@ Al solucionar el problema que se trataba de una línea que faltaba en el fichero
 # - **25/05/2023**
 Hoy, he estado con Kevin probando la conexión ssh para acceder remotamente desde el cliente 3 al servidor 1. También he ayudado a Miquel a cambiar los cables del switch TP Link y organizarlos para conectarlos al switch Cisco.
 
+# - **26/05/2023**
+Hoy, he intentado ponerme a agregar un cliente cualquiera al servidor Zabbix porque la última vez ya tuve problemas pero con el poco tiempo que he tenido debido a un fallo en el cuadro eléctrico, nos han cortado la luz continuamente y no he podido hacer mucho.
+
 # - **29/05/2023**
 Hoy, me he puesto a configurar el Domain Controller desde RSAT (Cliente 3), he estado arreglando el script de usuarios y he intentado unir un cliente al servidor de monitorización Zabbix.
+
+# - **31/05/2023**
+Hoy, me he intentado poner para seguir configurando el Domain Controller para empezar a dejar echos los perfiles móviles, obligatorios, GPO's... Perom hemos tenido un problema con la conexión y con el cliente de RSAT, el cúal debía de estar unido al dominio principal, lo cúal nos ha echo perder tiempo investigando que pasaba, hasta que hemos conseguido arreglar el problema.
