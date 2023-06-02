@@ -48,5 +48,5 @@ En esta semana he conseguido saber el funcionamiendo del switch cisco en el que 
 # 29/05/2023
 Hoy lunes he llegado al taller como siempre y me he puesto a probar el funcionamiento de todos los dispositivos de red y me funcionaban raro el cisco pero despues de probarlo funciona bien solo que tarda uno minutos en configurarse y darte internet. Y despues de probar configure el switch del backup haciendole un trunk al switch tp-link para que salga hacia el switch pequeño el departamento de backup y funciona perfectamente. Por ultimo tambien configure el trunk hacia el switch de produccion y despues de probarlo tambien funciona perfectamente dando la vlan 90 y internet en todos los puertos. Voy a hacer un diseño de la red para saber como funciona y me pondre a hacer tareas de instalacion y configuracion porque faltaran bastantes.
 
-# 29/05/2023#-02/06/2023
+# 29/05/2023-02/06/2023
 Esta semana he estado revisando la red mas a fondo probando cosas que no funcionan y tambien probando el bonding ya que tendra que tener uno minio y tambien he hecho diagramas de toda la red, vlans y rutas para que los demas componentes del grupo puedan entenderlo tambien el funcionamiento completo de la red.
