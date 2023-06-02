@@ -81,3 +81,6 @@ Hoy he estado peleando con los permisos de las carpetas porque no me deja cambia
 
 # 01/06/2023
 Hoy ha sido un mal día, nos hemos puesto a hacer cada uno lo suyo y yo no conseguía unir el Windows server de datos al dominio y al parecer Álvaro tampoco, después de mucho mirar hemos decido que queremos reinstalar todo el dominio :C
+
+# 02/06/2023
+Finalmente, no hace falta reinstalar el dominio, ya que al probar si volviendo a una instantánea anterior funcionaba y sí, las 3 horas de Juan he estado haciendo la documentación de “Dimensionamiento de los equipos”, después de acabarla se la he enseñado a Juan y me ha dicho un par de cosas para retocar el próximo día.
