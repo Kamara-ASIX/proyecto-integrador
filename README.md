@@ -58,3 +58,6 @@ Miquel ha acabado de configurar el switch Cisco y Kevin ha estado con el esquema
 
 ## 29/05/2023
 La red ha quedado completamente configurada y probada para su funcionamiento y faltaria hacele la documentacion de como esta configurada y esta parte ya estaria preparada para dejarla de lado.
+
+## 02/06/2023
+Hemos estado haciendo todos un poco de todo, Álvaro ha hecho volver a funcionar el dominio, Miquel ha estado con la documentación de esquema de red, Kevin con la de Dimensionamientos de equipos, Alejandro con el NGIX de la página web, Rafa con el servidor de aplicación y Adrián con la práctica de PAX.
