@@ -50,3 +50,4 @@ Hoy lunes he llegado al taller como siempre y me he puesto a probar el funcionam
 
 # 29/05/2023-02/06/2023
 Esta semana he estado revisando la red mas a fondo probando cosas que no funcionan y tambien probando el bonding ya que tendra que tener uno minio y tambien he hecho diagramas de toda la red, vlans y rutas para que los demas componentes del grupo puedan entenderlo tambien el funcionamiento completo de la red.
+Y bueno no por nada pero adrian se pasa las clases d taller con en movil :v.
