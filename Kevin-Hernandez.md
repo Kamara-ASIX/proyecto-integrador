@@ -84,3 +84,6 @@ Hoy ha sido un mal día, nos hemos puesto a hacer cada uno lo suyo y yo no conse
 
 # 02/06/2023
 Finalmente, no hace falta reinstalar el dominio, ya que al probar si volviendo a una instantánea anterior funcionaba y sí, las 3 horas de Juan he estado haciendo la documentación de “Dimensionamiento de los equipos”, después de acabarla se la he enseñado a Juan y me ha dicho un par de cosas para retocar el próximo día.
+
+# 05/06/2023
+Hoy he estado reformulando y añadiendo cosas al Trello para saber en la semana que nos queda que cosas hacer. También he acabado el documento 3.1 y 3.3 de Juan y lo he entregado, mañana cuando Álvaro y Alejandro me pases la parte que falta del documento de PAX, pues lo juntaré todos y les daré formato para entregarlo.
