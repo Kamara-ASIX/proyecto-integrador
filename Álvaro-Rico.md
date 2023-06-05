@@ -69,13 +69,13 @@ Hoy, he intentado ponerme a agregar un cliente cualquiera al servidor Zabbix por
 Hoy, me he puesto a configurar el Domain Controller desde RSAT (Cliente 3), he estado arreglando el script de usuarios y he intentado unir un cliente al servidor de monitorización Zabbix.
 
 # - **31/05/2023**
-Hoy, me he intentado poner para seguir configurando el Domain Controller para empezar a dejar echos los perfiles móviles, obligatorios, GPO's... Perom hemos tenido un problema con la conexión y con el cliente de RSAT, el cúal debía de estar unido al dominio principal, lo cúal nos ha echo perder tiempo investigando que pasaba, hasta que hemos conseguido arreglar el problema.
+Hoy, me he intentado poner para seguir configurando el Domain Controller para empezar a dejar echos los perfiles móviles, obligatorios, GPO's... Pero hemos tenido un problema con la conexión y con el cliente de RSAT, el cúal debía de estar unido al dominio principal, lo cúal nos ha echo perder tiempo investigando que pasaba, hasta que hemos conseguido arreglar el problema.
 
 # - **01/06/2023**
-Hoy, he seguido intentando que funcionase el Domain Controller. Finalmente al no encontrar solución eficiente para que funcionasen todos los servidores y clientes, he restaurado la instantanea de cuando funcionaba perfectamente.
+Hoy, he seguido intentando que funcionase el Domain Controller.
 
 # - **02/06/2023**
-Hoy, he intentado unir el Cliente 3 al Dominio, pero ha dado un fallo extraño y he estado intentando arreglarlo con Miquel.
+Hoy, he intentado unir el Cliente 3 al Dominio, pero al seguir sin funcionar en todos los servidores y clientes, he restaurado la instantanea de cuando funcionaba perfectamente.
 
 # - **05/06/2023**
 Hoy, ha vuelto a fallar el Cliente 3 sin razón alguna y Miquel y yo hemos arreglado el error. También he montado la pool de TrueNas del Backup en el servidor de Datos (Windows Server) y he intentado añadir un cliente para monitorizar en el Servidor Zabbix.
