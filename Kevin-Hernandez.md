@@ -87,3 +87,6 @@ Finalmente, no hace falta reinstalar el dominio, ya que al probar si volviendo a
 
 # 05/06/2023
 Hoy he estado reformulando y añadiendo cosas al Trello para saber en la semana que nos queda que cosas hacer. También he acabado el documento 3.1 y 3.3 de Juan y lo he entregado, mañana cuando Álvaro y Alejandro me pases la parte que falta del documento de PAX, pues lo juntaré todos y les daré formato para entregarlo.
+
+# 06/06/2023
+He estado retocando los documentos de Juan tal y como los quería especificando más algunas cosas, luego nos hemos puesto con él a corregir cosas para que ya tengamos nota.
