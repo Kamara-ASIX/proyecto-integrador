@@ -90,3 +90,6 @@ Hoy he estado reformulando y añadiendo cosas al Trello para saber en la semana 
 
 # 06/06/2023
 He estado retocando los documentos de Juan tal y como los quería especificando más algunas cosas, luego nos hemos puesto con él a corregir cosas para que ya tengamos nota.
+
+# 07/06/2023
+He conseguido solucionar porque el dominio y el backup no tenían internet, era por las IPv6, las he desactivado y ya funcionaba. Después he estado con Miquel, Álvaro y Raúl mirando porque no nos funcionaba el internet en ningún servidor o cliente, por navegador (Firefox o Edge) y si por nslookup o actualizando paquetes.
