@@ -61,3 +61,6 @@ La red ha quedado completamente configurada y probada para su funcionamiento y f
 
 ## 02/06/2023
 Hemos estado haciendo todos un poco de todo, Álvaro ha hecho volver a funcionar el dominio, Miquel ha estado con la documentación de esquema de red, Kevin con la de Dimensionamientos de equipos, Alejandro con el NGIX de la página web, Rafa con el servidor de aplicación y Adrián con la práctica de PAX.
+
+## 07/06/2023
+Hoy hemos empezado por la mañana con el problema de que el dominio no funcionaba y estábamos con el Backup, pero ambos sin internet, finalmente Kevin ha descubierto que era por culpa de las IPv6, las ha desactivado y ha funcionado. Álvaro ha estado probando porque el servidor de monitorización no le funcionaban los agentes para que muestre información. Y por último Miquel ha estado mirando con Raúl porque no nos funciona el internet usando navegadores como Edge o Firefox, pero sí al hacer nslookup.
