@@ -59,3 +59,4 @@ Esta semana he empezado haciendo examenes pero cuando llego a el taller me pongo
 Estos dias he estado haciendo documentacion de la parte de redes como la configuracion de las vlans y trunks:
 https://drive.google.com/file/d/1zCIjuaMHXtQQH2t6gDlgQLOk2okXH7dZ/view
 Luego el otra de la infractructura de la empresa con cisco
+Y ya he acabado eso entonces me he puesto a hacer el bonding entre el tp-link y el Cisco para hacer que pase toda la informacion de la empresa por 2 cables en vez de 1 y eso hara que pueda pasar mas informacion y de menos errores de colisión.
