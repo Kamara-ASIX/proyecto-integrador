@@ -79,3 +79,9 @@ Hoy, he intentado unir el Cliente 3 al Dominio, pero al seguir sin funcionar en 
 
 # - **05/06/2023**
 Hoy, ha vuelto a fallar el Cliente 3 sin razón alguna y Miquel y yo hemos arreglado el error. También he montado la pool de TrueNas del Backup en el servidor de Datos (Windows Server) y he intentado añadir un cliente para monitorizar en el Servidor Zabbix.
+
+# - **06/06/2023**
+Hoy, le hemos pedido ayuda a Juan, ya que, seguiamos teniendo el mismo fallo con el Dominio y al verlo nos dijo que había reventado y que sigamos funcionando con el Backup Domain Controller.
+
+# - **07/06/2023**
+Hoy, después de arreglar Kevin el error del Domain Controller Principal, me he puesto a intentar instalar los agentes del servidor Zabbix en los clientes para poder monitorizarlos y volver a añadir el MikroTik que dió fallo.
