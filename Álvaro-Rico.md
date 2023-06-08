@@ -84,4 +84,7 @@ Hoy, ha vuelto a fallar el Cliente 3 sin razón alguna y Miquel y yo hemos arreg
 Hoy, le hemos pedido ayuda a Juan, ya que, seguiamos teniendo el mismo fallo con el Dominio y al verlo nos dijo que había reventado y que sigamos funcionando con el Backup Domain Controller.
 
 # - **07/06/2023**
-Hoy, después de arreglar Kevin el error del Domain Controller Principal, me he puesto a intentar instalar los agentes del servidor Zabbix en los clientes para poder monitorizarlos y volver a añadir el MikroTik que dió fallo.
+Hoy, después de arreglar Kevin el error del Domain Controller (Principal), me he puesto a intentar instalar los agentes del servidor Zabbix en los clientes para poder monitorizarlos y volver a añadir el MikroTik que dió fallo.
+
+# - **08/06/2023**
+Hoy, por fin parece que hemos conseguido arreglar por completo el error de conectividad del Domain Controller y para tener acceso a Internet en los equipos, además una vez conseguido esto y teninendo Internet me he puesto a instalar los agentes del Zabbix en los clientes para la monitorización lo cúal llevaba ya mucho tiempo intetando y al fin he conseguido conectarlos y poder monitorizarlos.
