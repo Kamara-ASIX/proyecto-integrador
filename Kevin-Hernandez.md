@@ -93,3 +93,6 @@ He estado retocando los documentos de Juan tal y como los quería especificando 
 
 # 07/06/2023
 He conseguido solucionar porque el dominio y el backup no tenían internet, era por las IPv6, las he desactivado y ya funcionaba. Después he estado con Miquel, Álvaro y Raúl mirando porque no nos funcionaba el internet en ningún servidor o cliente, por navegador (Firefox o Edge) y si por nslookup o actualizando paquetes.
+
+# 08/06/2023
+Hoy hemos vuelto a intentar solucionar el internet en los equipos, una vez ha funcionado, me he puesto con la documentación de PAX y asi tenerla lista para este domingo.
