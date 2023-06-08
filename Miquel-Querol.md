@@ -51,5 +51,11 @@ Hoy lunes he llegado al taller como siempre y me he puesto a probar el funcionam
 # 29/05/2023-02/06/2023
 Esta semana he estado revisando la red mas a fondo probando cosas que no funcionan y tambien probando el bonding ya que tendra que tener uno minio y tambien he hecho diagramas de toda la red, vlans y rutas para que los demas componentes del grupo puedan entenderlo tambien el funcionamiento completo de la red.
 Y bueno no por nada pero adrian se pasa las clases d taller con en movil :v sin hacer casi nada por no decir nada bueno instalar pero tendria que estar viendo que hay para hacer o preguntando y si no encuentras nada pos vale pero ahi esta afk. Que por otra parte rafa y lledo si que se ponen a hacer.
+
 # 06/06/2023
 Esta semana he empezado haciendo examenes pero cuando llego a el taller me pongo a seguir haciendo el diagrama de red en cisco pero mientras voy ayudando a rico y Kevin a los problemas en el dominio principal que nos a craseado completamente y pues a lo mejor hay que volverlo a instalarlo de cero y pues eso nos va a quitar muchisimo tiempo de que no disponemos ya que parece que seamos menos el grupo como no.
+
+# 08/08/2023
+Estos dias he estado haciendo documentacion de la parte de redes como la configuracion de las vlans y trunks:
+https://drive.google.com/file/d/1zCIjuaMHXtQQH2t6gDlgQLOk2okXH7dZ/view
+Luego el otra de la infractructura de la empresa con cisco
