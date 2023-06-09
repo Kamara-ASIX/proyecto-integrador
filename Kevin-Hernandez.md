@@ -96,3 +96,7 @@ He conseguido solucionar porque el dominio y el backup no tenían internet, era 
 
 # 08/06/2023
 Hoy hemos vuelto a intentar solucionar el internet en los equipos, una vez ha funcionado, me he puesto con la documentación de PAX y asi tenerla lista para este domingo.
+
+# 09/07/2023
+Hoy he estado acabando el documento de PAX, con todo lo que hemos hecho cada uno y el esquema de red. Ahora falta que Raúl lo revise y si tiene alguna duda que nos pregunte.
+[MEMORIA DEL PROYECTO.pdf](https://github.com/Kamara-ASIX/proyecto-integrador/files/11705807/MEMORIA.DEL.PROYECTO.pdf)
