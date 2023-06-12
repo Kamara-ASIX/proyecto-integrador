@@ -100,3 +100,7 @@ Hoy hemos vuelto a intentar solucionar el internet en los equipos, una vez ha fu
 # 09/07/2023
 Hoy he estado acabando el documento de PAX, con todo lo que hemos hecho cada uno y el esquema de red. Ahora falta que Raúl lo revise y si tiene alguna duda que nos pregunte.
 [MEMORIA DEL PROYECTO.pdf](https://github.com/Kamara-ASIX/proyecto-integrador/files/11705807/MEMORIA.DEL.PROYECTO.pdf)
+
+# 12/06/2023
+
+Hemos estado corrigiendo con Pep el zabbix, ya lo tenemos corregido. He subido la práctica 3.6 de lenguaje de marcas y lo hemos subido a AWS, también nos ha dicho Jorge que lo subamos a la intranet (estamos en ello).
