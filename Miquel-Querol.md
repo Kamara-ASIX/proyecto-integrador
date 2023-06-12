@@ -55,8 +55,12 @@ Y bueno no por nada pero adrian se pasa las clases d taller con en movil :v sin 
 # 06/06/2023
 Esta semana he empezado haciendo examenes pero cuando llego a el taller me pongo a seguir haciendo el diagrama de red en cisco pero mientras voy ayudando a rico y Kevin a los problemas en el dominio principal que nos a craseado completamente y pues a lo mejor hay que volverlo a instalarlo de cero y pues eso nos va a quitar muchisimo tiempo de que no disponemos ya que parece que seamos menos el grupo como no.
 
-# 08/08/2023
+# 08/06/2023
 Estos dias he estado haciendo documentacion de la parte de redes como la configuracion de las vlans y trunks:
 https://drive.google.com/file/d/1zCIjuaMHXtQQH2t6gDlgQLOk2okXH7dZ/view
 Luego el otra de la infractructura de la empresa con cisco
 Y ya he acabado eso entonces me he puesto a hacer el bonding entre el tp-link y el Cisco para hacer que pase toda la informacion de la empresa por 2 cables en vez de 1 y eso hara que pueda pasar mas informacion y de menos errores de colisión.
+
+
+# 12/06/2023
+Esta ultima semana he estado haciendo lo que veo entre documentacion y configuracion de maquinas para que funcione lo que se pueda para que vayan corriguiendolo los profesores pero tenemos errores en el TrueNAS y no funciona por lo que al final hemos tenido que optar por poder hacer los usuarios, carpetas personales, perfiles obligatorios y moviles para corregirlos cuanto antes y una cosa menos pero parece que servicios como WDS y WSUS no creo que nos de tiempo a configurarlas.
